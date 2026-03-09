@@ -1,0 +1,74 @@
+#title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 70px;
+  font-size: 50px;
+  border-bottom: 3px solid #ccc;
+  box-shadow: 0 0 10px #ccc;
+  color: #ccc;
+}
+
+#dc {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  width: 20vw;
+  height: 50px;
+  font-size: 30px;
+  color: #5865f2;
+  border: 3px solid #5865f2;
+  box-shadow: 0 0 10px #5865f2;
+  border-radius: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background-color: rgb(57, 57, 57);
+}
+
+#contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  width: 30vw;
+  height: 50px;
+  font-size: 30px;
+  color: #ccc;
+  border: 3px solid #ccc;
+  box-shadow: 0 0 10px #ccc;
+  border-radius: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.naszywka {
+  width: 250px;
+  height: 250px;
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
+
+#contener {
+  margin-top: 50px;
+  display: flex;
+  justify-content: left;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 300px;
+}
+
+#mowa {
+  margin-top: 50px;
+  width: 80%;
+  height: auto;
+  font-size: 25px;
+  color: #ccc;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+}/*# sourceMappingURL=index.css.map */
